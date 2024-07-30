@@ -165,11 +165,11 @@ function SearchBar() {
               setInput("filling")
               setTld(e.target.value);
             }}>
-              <option value={'bh3'}> bh3</option>
-              <option value={'mu3'}>mu3</option>
-              <option value={'rarity'}>rarity</option>
-              <option value={'IN'}>IN</option>
-              <option value={'foodz'}>foodz</option>
+              <option value={'bml'}> bml</option>
+              <option value={'iit'}>iit</option>
+              <option value={'nit'}>nit</option>
+              <option value={'iim'}>iim</option>
+              <option value={'aims'}>aims</option>
             </select>
           </div>
         </div>

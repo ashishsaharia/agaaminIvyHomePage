@@ -5,7 +5,9 @@ export default function SectionThree(){
         <div className="sectionThreeWrapper">
             <div className="sectionThreeLeft">
                 <h1>Our Vision</h1>
-                <h2>Connecting people through seamless social interactions and shared experiences </h2>
+                <h2>Top Minds. One network. </h2>
+                <h2>Show off your alma mater and join an elite network of the top 1% of global intellectual capital. 
+                </h2>
             </div>
             <div className="sectionThreeRight">
                 <Services></Services>
